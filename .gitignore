@@ -1,0 +1,3 @@
+.venv/
+command.txt
+db.sqlite3
