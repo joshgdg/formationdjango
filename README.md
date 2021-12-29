@@ -1,2 +1,2 @@
 # formationdjango
-Premier Essai Python Django
+Premier Essai d'une application web Python avec Django
